@@ -1,0 +1,11 @@
+{
+  "name": "percentage",
+  "version": "1.0.0",
+  "authors": [
+    "Armando Couto <coutoarmando@gmail.com>"
+  ],
+  "description": "Plugin que auxilia na filtragem.",
+  "main": "percentage.js",
+  "license": "MIT",
+  "homepage": "www.armandocouto.com.br"
+}
